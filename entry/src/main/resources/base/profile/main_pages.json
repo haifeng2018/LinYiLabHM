@@ -1,0 +1,15 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/AlbumResultPage",
+    "pages/ContactResultPage",
+    "pages/DeviceResultPage",
+    "pages/FileResultPage",
+    "pages/CapturePage",
+    "pages/CaptureResultPage"
+  ],
+  "window": {
+    "designWidth": 750,
+    "autoDesignWidth": false
+  }
+}
